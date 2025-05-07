@@ -1,4 +1,5 @@
 vsOnlineServices (Frontend Project)
+
 A responsive web application frontend developed for vsOnlineServices, providing users with services such as bill payments, mobile recharges, and ticket bookings. This project focuses on delivering a smooth user experience across devices with modern web technologies.
 
 🚀 Features
@@ -28,9 +29,13 @@ Methodologies: Agile development practices
 📱 Screenshots
 (Screenshots can be added here if allowed)
 Example:
-https://github.com/Balaji-Rishi/vsonline-services/blob/main/MainPage.png
+
 
 ![Screenshot 2025-05-05 224757](https://github.com/user-attachments/assets/f38a2a95-3f7c-4e02-afaa-90cacd5fddde)
+![Screenshot 2025-05-07 151123](https://github.com/user-attachments/assets/0b95d6af-187a-4de5-a049-cbf0dafc0da8)
+![Uploading Screenshot 2025-05-07 151137.png…]()
+
+
 
 
 
